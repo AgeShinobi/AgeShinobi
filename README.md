@@ -10,6 +10,7 @@
 
 ## 🏆Моя статистика:
 [![trophy](https://github-profile-trophy.vercel.app/?username=AgeShinobi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![codewars](https://www.codewars.com/users/AgeShinobi/badges/small)](https://www.codewars.com/users/username)
 <!--
 **AgeShinobi/AgeShinobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
