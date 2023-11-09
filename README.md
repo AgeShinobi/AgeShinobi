@@ -7,6 +7,9 @@
 
 ## 🛠️Мой стек:
 ![vscode](./images/vscode-svgrepo-com.svg) ![html5](./images/html-5-svgrepo-com.svg) ![css3](./images/css3-logo-svgrepo-com.svg) ![js](./images/js-svgrepo-com.svg) ![react](./images/react-1-logo-svgrepo-com.svg) ![nodejs](./images/node-svgrepo-com.svg) ![express](./images/express-svgrepo-com.svg) ![mongodb](./images/mongodb-logo-svgrepo-com.svg) ![git](./images/git-svgrepo-com.svg)
+
+## 🏆Моя статистика:
+[![trophy](https://github-profile-trophy.vercel.app/?username=AgeShinobi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
 **AgeShinobi/AgeShinobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
