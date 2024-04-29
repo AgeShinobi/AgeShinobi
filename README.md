@@ -2,7 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Crypto&weight=500&pause=800&color=F7E431&random=false&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82+%D0%B8+%D0%B4%D0%BE%D0%B1%D1%80%D0%BE+%D0%BF%D0%BE%D0%B6%D0%B0%D0%BB%D0%BE%D0%B2%D0%B0%D1%82%D1%8C+%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B;Hello+and+welcome+%F0%9F%91%8B%F0%9F%91%8B%F0%9F%91%8B)](https://git.io/typing-svg)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Crypto&weight=500&size=18&duration=2500&color=C82DFF&background=32FF7E00&multiline=true&repeat=false&random=false&width=600&height=100&lines=%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9.+%D0%AF+-+frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;My+name+is+Andrey%2C+I'm+frontend+developer%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
-#### 📚 Мой текущий технологический стек / 📚 My current tech stack:
+### 📚 Мой текущий технологический стек / 📚 My current tech stack:
 <div style="display: flex; flex-direction: column; gap: 8px;">
   <div style="display: flex; gap: 5px;">
     <img src="https://img.shields.io/badge/-CSS-263139?style=flat-square&logo=css3&logoColor=019ce6" alt="CSS3">
@@ -33,7 +33,7 @@
 <div> 
 </br>
   
-#### 🏆 Моя статистика / 🏆 My statistics:
+### 🏆 Моя статистика / 🏆 My statistics:
 [![trophy](https://github-profile-trophy.vercel.app/?username=AgeShinobi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![codewars](https://www.codewars.com/users/AgeShinobi/badges/large)](https://www.codewars.com/users/username)
@@ -41,12 +41,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ageshinobi&layout=compact&theme=dark)
 
 
-#### 📫 Как со мной связаться / 📫 How to reach me:
-[![Static Badge](https://img.shields.io/badge/-reosone-Telegram?style=flat-square&logo=Telegram&labelColor=grey&color=grey&link=https%3A%2F%2Ft.me%2Freosone)](https://t.me/reosone)
+### 📫 Как со мной связаться / 📫 How to reach me:
+- Email: [ageshin.ad@yandex.ru](mailto:ageshin.ad@yandex.ru)
+- Telegram: [@reosone](https://t.me/reosone)
 
-[![Static Badge](https://img.shields.io/badge/-ageshin.ad%40yandex.ru-T?style=flat&logo=imessage&labelColor=grey&color=grey&link=https%3A%2F%2Ft.me%2Freosone)](mailto:ageshin.ad@yandex.ru)
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=180&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&text=AgeShinobi%20&fontSize=50)
 
 
 <!--
