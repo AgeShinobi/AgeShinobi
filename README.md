@@ -33,9 +33,11 @@
 </br>
   
 #### 🏆 Моя статистика / 🏆 My statistics:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ageshinobi&layout=compact&theme=dark)
 [![trophy](https://github-profile-trophy.vercel.app/?username=AgeShinobi&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 [![codewars](https://www.codewars.com/users/AgeShinobi/badges/large)](https://www.codewars.com/users/username)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ageshinobi&layout=compact&theme=dark)
 
 
 #### 📫 Как со мной связаться / 📫 How to reach me:
