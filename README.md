@@ -19,6 +19,7 @@
     <img src="https://img.shields.io/badge/-Jest-263139?style=flat-square&logo=jest&logoColor=a84b58" alt="jest">
   </div>
   <div style="display: flex; gap: 5px;">
+    <img src="https://img.shields.io/badge/MongoDB-263139?style=flat-square&logo=mongodb" alt="MongoDB">
     <img src="https://img.shields.io/badge/-Git-263139?style=flat-square&logo=git&logoColor=F05032" alt="GIT">
     <img src="https://img.shields.io/badge/-NPM-263139?style=flat-square&logo=npm&logoColor=cb0001" alt="npm">
     <img src="https://img.shields.io/badge/-YARN-263139?style=flat-square&logo=yarn&logoColor=764ABC" alt="yarn">
