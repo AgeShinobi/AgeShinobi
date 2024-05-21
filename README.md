@@ -44,7 +44,7 @@
 
 ### 📫 Как со мной связаться / 📫 How to reach me:
 - Email: [ageshin.ad@yandex.ru](mailto:ageshin.ad@yandex.ru)
-- Telegram: [@reosone](https://t.me/reosone)
+- Telegram: [@AgeShinobi](https://t.me/AgeShinobi)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer&text=AgeShinobi%20&fontSize=50)
