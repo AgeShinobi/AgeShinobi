@@ -5,9 +5,9 @@
 ### 📚 Мой текущий технологический стек / 📚 My current tech stack:
 <div style="display: flex; flex-direction: column; gap: 8px;">
   <div style="display: flex; gap: 5px;">
+    <img src="https://img.shields.io/badge/-HTML5-263139?style=flat-square&logo=html5&logoColor=f77b63" alt="HTML5">
     <img src="https://img.shields.io/badge/-CSS-263139?style=flat-square&logo=css3&logoColor=019ce6" alt="CSS3">
     <img src="https://img.shields.io/badge/-SASS%20/%20SCSS-263139?style=flat-square&logo=sass&logoColor=cf649a" alt="SCSS">
-    <img src="https://img.shields.io/badge/-HTML5-263139?style=flat-square&logo=html5&logoColor=f77b63" alt="HTML5">
     <img src="https://img.shields.io/badge/-JavaScript-263139?style=flat-square&logo=javascript&logoColor=#ffca39" alt="JavaScript">
     <img src="https://img.shields.io/badge/-TypeScript-263139?style=flat-square&logo=typescript&logoColor=#ffca39" alt="TypeScript">
   </div>
