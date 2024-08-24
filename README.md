@@ -37,8 +37,6 @@
 ### 🏆 Моя статистика / 🏆 My statistics:
 [![codewars](https://www.codewars.com/users/AgeShinobi/badges/large)](https://www.codewars.com/users/username)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ageshinobi&layout=compact&theme=dark)
-
 
 ### 📫 Как со мной связаться / 📫 How to reach me:
 - Email: [ageshin.ad@yandex.ru](mailto:ageshin.ad@yandex.ru)
